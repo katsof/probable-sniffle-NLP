@@ -6,3 +6,8 @@ In the wake of big unstructured text data, Natural Language Processing or NLP an
 Part one of this project will be focused on text mining and keyword extraction news articles from the year 2020. Part two of the project will be geared more towards predictive analysis and model building. 
 
 Business Problem: Using keyword extraction to identify NASDAQ licensing pair agreement(two NASDAQ companies noted in licensing agreement) from the year 2020 by mining news articles and build a predictive model to sort for licensing articles
+
+Files: 
+
+* 8389_s_mobley_final_code.ipynb - Text cleaning and minning. Keyword extraction methods and topic modeling
+* 

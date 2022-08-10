@@ -1,5 +1,5 @@
-# probable-sniffle
-NLP Keyword Extraction and Predictive models
+# NLP Keyword Extraction and Predictive models
+
 
 In the wake of big unstructured text data, Natural Language Processing or NLP and text analytics are on everyone’s radar. In short, NLP is the process of using artificial intelligence to understand the human language and text analysis uses NLP to carry out analysis. Whether its sentiment analysis or text mining there are multiple packages created to help data scientist and analyst along the way. Particularly in this project, we will be focused on text mining and will mostly be working with NLTK, Natural language toolkit and Regex, regular expression.Text mining includes data mining algorithms, NLP, machine learning, and statistical operations to derive useful content from unstructured formats.[5]
 
